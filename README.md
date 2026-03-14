@@ -70,23 +70,23 @@ This is GAN based image SR for super resolving enhanced UW image.
 ## Results
 
 Results of our method on UFO-120 test data Row1 is input degraded UW images, Row2 is intermediate enhanced UW image, Row3 is enhanced UW image, Row3 is super resolved UW image, Row4 is ground truth.
-![alt text](https://github.com/itz-Mayank/AUV_Super_Resolution/Images/Img_Seq.JPG)
+![alt text](Images/Img_Seq.JPG)
 <br/>
 
 #### Comparison of our method with existing SOTA works in enhancement:
 Comparison of our method with SOTA in enhancement of UW image on UFO-120 test dataset.
-![alt text](https://github.com/itz-Mayank/AUV_Super_Resolution/Images/SOTA_Enhancement.png)
+![alt text](Images/SOTA_Enhancement.png)
 <br/>
 
 Performance evaluation and comparison with existing SOTA works for UW image enhancement using quantitative measures PSNR and SSIM on UFO-120 and EUVP datasets.
-![alt text](https://github.com/itz-Mayank/AUV_Super_Resolution/Images/comp_metric_enh.JPG)
+![alt text](Images/comp_metric_enh.JPG)
 <br/>
 
 #### Comparison of our method with existing SOTA works in super resolution:
 Comparison of our method with SOTA in Super Resolution of UW image on UFO-120 test dataset.
-![alt text](https://github.com/itz-Mayank/AUV_Super_Resolution/Images/SOTA_SR.jpg)
+![alt text](Images/SOTA_SR.jpg)
 <br/>
 
 Performance evaluation and comparison with existing SOTA works for super resolution using quantitative measures PSNR and SSIM on UFO-120 and USR-248 datasets.
-![alt text](https://github.com/itz-Mayank/AUV_Super_Resolution/Images/comp_metric_sr.JPG?raw=true)
+![alt text](Images/comp_metric_sr.JPG?raw=true)
 <br/>
