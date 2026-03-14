@@ -1,0 +1,12 @@
+# dataset info
+dataset_name: "UFO-120" 
+dataset_path: "C:\\Users\\Mayank Meghwal\\Desktop\\Reserch Papers AUV\\AUV\\Code\\Data\\UFO-120\\"
+
+# image info
+chans: 3
+im_width: 256
+im_height: 256
+
+# other params
+val_interval: 100  # steps
+ckpt_interval: 4   # epochs

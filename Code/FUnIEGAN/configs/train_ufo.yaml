@@ -1,0 +1,12 @@
+# dataset info
+dataset_name: "UFO-120"
+dataset_path: "C:\\Users\\Mayank Meghwal\\Desktop\\Reserch Papers AUV\\AUV\\Code\\Data\\UFO-120\\train_val\\"
+
+# image info
+chans: 3
+im_width: 320   # change if your project needs 256
+im_height: 240  # change if your project needs 256
+
+# other params
+val_interval: 1000   # steps
+ckpt_interval: 20    # epochs
