@@ -6,7 +6,7 @@ To build a deep learning model for a given underwater low-resolution degraded im
 ## Methodology
 The proposed methodology of enhancing and super resolving of UW images consists of three main modules.
 <br/>
-![alt text](https://github.com/itz-Mayank/AUV_Super_Resolution/Images/methodology.jpg)
+![alt text](Images/methodology.jpg)
 <br/>
 1. Image Enhancement(IE)
 2. Image Super Resolution(ISR)
@@ -88,5 +88,5 @@ Comparison of our method with SOTA in Super Resolution of UW image on UFO-120 te
 <br/>
 
 Performance evaluation and comparison with existing SOTA works for super resolution using quantitative measures PSNR and SSIM on UFO-120 and USR-248 datasets.
-![alt text](Images/comp_metric_sr.JPG?raw=true)
+![alt text](Images/comp_metric_sr.JPG)
 <br/>
