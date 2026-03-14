@@ -1,12 +1,12 @@
 # Under-Water-Image-Super-Resolution
-[Mini Project]
+
 ## Problem Statement: 
 To build a deep learning model for a given underwater low-resolution degraded image, that enhance the image to remove degradation effects and later improve the quality of image by super resolution.
 
 ## Methodology
 The proposed methodology of enhancing and super resolving of UW images consists of three main modules.
 <br/>
-<!-- ![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/methodology.jpg?raw=true) -->
+![alt text](https://github.com/itz-Mayank/AUV_Super_Resolution/Images/methodology.jpg?raw=true)
 <br/>
 1. Image Enhancement(IE)
 2. Image Super Resolution(ISR)
@@ -70,23 +70,23 @@ This is GAN based image SR for super resolving enhanced UW image.
 ## Results
 
 Results of our method on UFO-120 test data Row1 is input degraded UW images, Row2 is intermediate enhanced UW image, Row3 is enhanced UW image, Row3 is super resolved UW image, Row4 is ground truth.
-![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/Img_Seq.JPG?raw=true)
+![alt text](https://github.com/itz-Mayank/AUV_Super_Resolution/Images/Img_Seq.JPG?raw=true)
 <br/>
 
 #### Comparison of our method with existing SOTA works in enhancement:
 Comparison of our method with SOTA in enhancement of UW image on UFO-120 test dataset.
-![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/SOTA_Enhancement.png?raw=true)
+![alt text](https://github.com/itz-Mayank/AUV_Super_Resolution/Images/SOTA_Enhancement.png?raw=true)
 <br/>
 
 Performance evaluation and comparison with existing SOTA works for UW image enhancement using quantitative measures PSNR and SSIM on UFO-120 and EUVP datasets.
-![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/comp_metric_enh.JPG?raw=true)
+![alt text](https://github.com/itz-Mayank/AUV_Super_Resolution/Images/comp_metric_enh.JPG?raw=true)
 <br/>
 
 #### Comparison of our method with existing SOTA works in super resolution:
 Comparison of our method with SOTA in Super Resolution of UW image on UFO-120 test dataset.
-![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/SOTA_SR.jpg?raw=true)
+![alt text](https://github.com/itz-Mayank/AUV_Super_Resolution/Images/SOTA_SR.jpg?raw=true)
 <br/>
 
 Performance evaluation and comparison with existing SOTA works for super resolution using quantitative measures PSNR and SSIM on UFO-120 and USR-248 datasets.
-![alt text](https://github.com/BasavarajMS11/Under-Water-Image-Super-Resolution/blob/master/Images/comp_metric_sr.JPG?raw=true)
+![alt text](https://github.com/itz-Mayank/AUV_Super_Resolution/Images/comp_metric_sr.JPG?raw=true)
 <br/>
